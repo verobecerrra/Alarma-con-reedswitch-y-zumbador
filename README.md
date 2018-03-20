@@ -11,3 +11,5 @@ Para este proyecto se utilizó:
 Es un tipo de altavoz basado en las propiedades de los cristales piezoeléctricos (poliéster o cerámica), que se deforman cuando se les aplica una tensión entre sus caras y que actuando como transductor electroacústico es utilizado para la reproducción de sonido.
 
 El código es muy sencillo y fácil de entender. Este ejemplo de alarma muestra un reedswitch, un zumbador y un led, que al dar interrupción magnética al reedswitch se prende el led y el zumbador suena, al quietar la interrupción, el led se apaga y el zumbador deja de sonar.
+
+![Imagen_Arduino](alarma.jpg"Diagrama Alarma")
