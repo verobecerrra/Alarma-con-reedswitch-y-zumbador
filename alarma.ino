@@ -6,9 +6,9 @@
  turn on simulating the alarm with sound and light.
 */
 
-int led = 13; //variable of the LED initialized in 13
-int reedswitch = 5; //variable of the REED SWITCH initialized in 5
-int buzzer = 8; //variable of the BUZZER initialized in 8
+int led = 9; //variable of the LED initialized in 13
+int reedswitch = 2; //variable of the REED SWITCH initialized in 5
+int buzzer = 6; //variable of the BUZZER initialized in 8
 int val = 0; 
 
 // the method setup Configures the specified pin to behave either as an input or an output
