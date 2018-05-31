@@ -55,5 +55,7 @@ Diagrama de circuito
 Autora
 ------
 Veronica Minerva Becerra Avalos
+
 Instituto Tecnologico de León
+
 14240592@itleon.edu.mx
