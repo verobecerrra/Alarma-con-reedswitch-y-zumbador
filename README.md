@@ -31,5 +31,18 @@ Material
      - 2 Leds  dediferente color
      - zumbador (buzzer)
 
+**Zumbador (Buzzer)**
+Zumbador, buzzer en inglés, es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono.  Es un tipo de altavoz basado en la propiedades de los cristales piezoeléctricos (poliéster o cerámica), que se deforman cuando se les aplica una tensión entre sus caras y que actuando como transductor electroacústico es utilizado para la reproducción de sonido.
 
-![Imagen_Arduino](alarma.jpg "Diagrama Alarma")
+**Reedswitch**
+Un reed switch  es un interruptor eléctrico activado por un campo magnético. El campo magnético puede estar generado por un imán permanente o por una bobina. Se pueden encontrar en los sensores de las puertas y ventanas de las alarmas antirrobo, el imán va unido a la puerta y el reed switch al marco.
+
+**Sensor de movimiento PIR**
+Los sensores infrarrojos pasivos (PIR) son dispositivos para la detección de movimiento. Son baratos, pequeños, de baja potencia, y fáciles de usar. Por esta razón son frecuentemente usados en juguetes, aplicaciones domóticas o sistemas de seguridad. En realidad cada sensor está dividido en dos campos y se dispone de un circuito eléctrico que compensa ambas mediciones. Si ambos campos reciben la misma cantidad de infrarrojos la señal eléctrica resultante es nula. Por el contrario, si los dos campos realizan una medición diferente, se genera una señal eléctrica. El otro elemento restante para que todo funcione es la óptica del sensor. Básicamente es una cúpula de plástico formada por lentes de fresnel, que divide el espacio en zonas, y enfoca la radiación infrarroja a cada uno de los campos del PIR.
+
+Diagrama de circuito
+--------------------
+
+![Imagen_Arduino](semalarma_bb.png "Diagrama Semaforo y Alarma")
+
+
