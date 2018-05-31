@@ -43,6 +43,6 @@ Los sensores infrarrojos pasivos (PIR) son dispositivos para la detección de mo
 Diagrama de circuito
 --------------------
 
-![Imagen_Arduino](semalarma_bb.png "Diagrama Semaforo y Alarma")
+![Imagen_Arduino](/Images/semalarma_bb.png "Diagrama Semaforo y Alarma")
 
 
