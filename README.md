@@ -52,4 +52,8 @@ Diagrama de circuito
 
 ![Imagen_Arduino](/Images/semalarma_bb.png "Diagrama Semaforo y Alarma")
 
-
+Autora
+------
+Veronica Minerva Becerra Avalos
+Instituto Tecnologico de León
+14240592@itleon.edu.mx
